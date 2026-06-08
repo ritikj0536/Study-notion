@@ -8,7 +8,7 @@ import "swiper/css/free-mode"
 import "swiper/css/pagination"
 import { FreeMode, Pagination } from "swiper"
 
-import Course_Card from "./Course_Card"
+import Course_Card from "./CourseCard"
 
 function Course_Slider({ Courses }) {
   return (
